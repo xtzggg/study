@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `username`, `password`) VALUES (1, '小兔子乖乖', 'scrypt:32768:8:1$VAIOD7cn7K4OIT3i$bd6edbc8d63d4531b5c77856df5cd092a87a50067467379dc5df547d1c94f00e63ea71a36d1a5386dca9b1629086496d7d266f8bf0b54c5af17325d7bb60c09f');
